@@ -1,0 +1,24 @@
+{
+  "name": "team-collaboration-tracker",
+  "version": "1.0.0",
+  "description": "Team Collaboration Tracker - Pure Client-Side App (No Server Required)",
+  "main": "public/index.html",
+  "scripts": {
+    "start": "echo 'Open public/index.html in your browser - No server needed!'"
+  },
+  "keywords": [
+    "team",
+    "collaboration",
+    "tracker",
+    "tasks",
+    "localStorage"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "mongoose": "^8.20.2"
+  }
+}
